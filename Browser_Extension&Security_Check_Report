@@ -1,0 +1,58 @@
+🧩 Objective:
+To follow security best practices by auditing Chrome browser extensions and improving performance based on the given mini-guide.
+
+✅ Hints/Mini Guide: Actions & Results
+1. Open your browser’s extension/add-ons manager
+-Accessed via:
+ More Tools > Extensions
+-Opened successfully.
+
+2. Review all installed extensions carefully
+-Only one extension found:
+    *Google Docs Offline
+-No unknown or third-party extensions installed.
+
+3. Check permissions and reviews for each extension
+-Permission checked via "Details" → Verified it’s safe.
+
+-Not listed on Chrome Web Store (as it's a built-in extension).
+
+4. Identify any unused or suspicious extensions
+-No unused or suspicious extensions found.
+
+5. Remove suspicious or unnecessary extensions
+-No removal needed — system is clean.
+
+6. Restart browser and check for performance improvements
+-Chrome restarted.
+
+-Slight delay still exists (likely due to system, not browser).
+
+-Chrome not listed in system startup — good.
+
+7. Research how malicious extensions can harm users
+-Malicious extensions can:
+
+  *Track browsing habits
+
+  *Steal login details and data
+
+  *Inject ads or redirect to malicious sites
+
+  *Monitor keystrokes or clipboard
+
+-This is why checking permissions and origin is critical.
+
+🟢 Final Result:
+✅ Browser secure and clean
+
+✅ No suspicious extensions
+
+✅ Background apps disabled
+
+✅ Cache cleared
+
+✅ Chrome updated to latest version
+
+
+
